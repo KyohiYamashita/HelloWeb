@@ -64,7 +64,7 @@ public class WorkJAVA01 {
 			// SQLERRM(SQLメッセージ)の出力
 			System.out.println("SQLERRM=" + e.getMessage());
 			
-			return "0";
+			return "5";
         }
 
 	}
